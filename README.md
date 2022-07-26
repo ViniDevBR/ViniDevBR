@@ -70,6 +70,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/vinidevbr/vinidevbr/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/vinidevbr/vinidevbr/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
 ###
