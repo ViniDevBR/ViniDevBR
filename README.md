@@ -69,7 +69,3 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/vinidevbr/vinidevbr/blob/output/snake.svg" alt="Snake animation" />
-
-###
