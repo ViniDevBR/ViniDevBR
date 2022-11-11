@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ I live in Brazil, São Paulo<br>📚 I am a Software Enginner student<br>🎯 I am Front-end Developer</p>
+<p align="left">✨ I live in Brazil, Campinas - São Paulo<br>📚 I am a Software Enginner student<br>🎯 I am Front-end Developer</p>
 
 ###
 
