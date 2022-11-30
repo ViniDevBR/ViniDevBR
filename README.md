@@ -10,7 +10,7 @@
 
 ###
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,styledcomponents,nodejs,express,mysql,mongo,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,styledcomponents,nodejs,express,mysql,mongo,git" />
 </p>
 
 <h2 align="left">Contact</h2>
