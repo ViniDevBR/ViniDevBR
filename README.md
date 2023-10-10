@@ -30,10 +30,11 @@
 </div>
 
 ###
-<div align="center">
-  <a href="https://github.com/ViniDevBR">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=ViniDevBR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniDevBR&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+      
+| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniDevBR&layout=compact&theme=github_dark&&hide=jupyter%20notebook,php,makefile,java,cmake,hack,shell&langs_count=7&hide_border=True&line_height=20&PAT_1) | ![Athirson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniDevBR&include=private&theme=github_dark&&include_all_commits=true&show_icons=true&hide_border=True&line_height=20&PAT_1) |
+| ----------- | ----------- |
+| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=ViniDevBR&theme=github_dark&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniDevBR&theme=github_dark&hide_border=True) |
+| ||
+
 
 ###
