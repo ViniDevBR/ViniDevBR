@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,styledcomponents,nodejs,express,mysql,mongo,prisma,git" />
 </p>
 
-<h2 align="left">Contact</h2>
+<!-- <h2 align="left">Contact</h2> -->
 
 ###
 
